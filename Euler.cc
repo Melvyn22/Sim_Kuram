@@ -9,7 +9,7 @@ int main()
 {
 ofstream data_theta;
 data_theta.open("theta");
-
+//JDJDJDJDJDJDJDJDJDJD
 unsigned int N=18;
 double dt=0.01;
 double coeff=0.1;
